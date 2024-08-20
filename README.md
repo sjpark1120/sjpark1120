@@ -23,6 +23,7 @@ I'm Sujin Park, a growing front-end developer. 🌱
 
 [My Blog](https://usagi-coding.tistory.com/)
 
+
 <!--
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
 -->
